@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
 color:
-  saturation: 0.5394265
+  saturation: 0.7473118
   brandStrength: 0.562724
-  lightness: 0.6899642
+  lightness: 0.5591398
   brandColors:
     - '#0D0D0D'
     - '#FFFFFF'
     - '#4F5052'
     - '#C5C4C0'
     - '#FFEB3D'
-  rhythmicContrast: 0.7527063
+  rhythmicContrast: 0.3010753
+typography_spectrum: 1
 layout_spectrum: 0.4802867
 name: Greenerinks.com
